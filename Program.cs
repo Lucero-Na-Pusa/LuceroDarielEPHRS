@@ -35,7 +35,7 @@ class Program
         while (running)
         {
             Console.Clear();
-            Console.WriteLine("=== EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM ===");
+            Console.WriteLine("=== EPHRS - FEATURE BRANCH VERSION ===");
             Console.WriteLine("1. Create (Add Employee)");
             Console.WriteLine("2. Read (View All Employees)");
             Console.WriteLine("3. Search / Filter");
